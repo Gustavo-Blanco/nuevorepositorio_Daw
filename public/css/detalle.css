@@ -1,0 +1,33 @@
+.imagen{
+    
+}
+.imagen img{
+
+    height: 310px;
+}
+.detalles{
+    width: 350px;
+}
+.titulo{
+    border-bottom: 1px solid rgb(26, 177, 136);
+}
+.color-verde{
+    color: rgb(26, 177, 136);
+}
+.bg-verde{
+    background: rgb(26, 177, 136);
+}
+
+.bg-amarillo{
+    background: #ffff00;
+}
+
+.color-fondo{
+    color: rgb(128, 128, 128);
+}
+.imagen a:hover {
+    text-decoration: none;
+}
+.shadow{
+    box-shadow: 0px 2px 10px rgba(78, 78, 78, 0.418);
+}

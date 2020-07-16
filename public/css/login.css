@@ -1,0 +1,42 @@
+main form{
+    width: 350px;
+}
+.avatar{
+    width: 100px;
+    border: 2px solid #387A8A;
+}
+.fondo-formulario{
+    background: rgba(0, 0, 0, 0.746);
+}
+.campos{
+    border-bottom: 1px solid #387A8A;
+}
+.campos input{
+    outline: none;
+}
+
+.boton-azul{
+    border: none;
+}
+.bg-azul{
+    background: #387A8A;
+}
+.color-azul{
+    color: #387A8A;
+}
+footer{
+    display: none;
+}
+.shadow{
+    box-shadow: 0px 2px 10px rgba(78, 78, 78, 0.418);
+}
+/*.campos input::placeholder{
+    color: white;
+}*/
+/* body{
+    background-image:  url(../img/ropa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100%;
+    animation: mover 10s infinite linear alternate;
+} */

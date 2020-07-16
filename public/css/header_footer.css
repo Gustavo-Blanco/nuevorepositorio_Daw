@@ -1,0 +1,51 @@
+header{
+    height: 60px;
+    background: #8B5BBA;
+    z-index: 2;
+}
+.busqueda{
+    border: none;
+    width: 60%;
+    padding: 3px;
+    outline: none;
+    border-bottom: 1px solid white;
+    background: none;
+    border-radius: 0;
+    font-size: 18px;
+}
+.busqueda::placeholder{
+    color: rgba(255, 255, 255, 0.54);   
+}
+.search{
+    border-bottom: 1px solid white;
+}
+
+.background-purple{
+    background: #8B5BBA;
+}
+.color-purple{
+    color: #8B5BBA;
+}
+
+.iconos{
+    height: 30px;
+}
+
+header a:hover{
+    text-decoration: none;
+}
+nav{
+    height: 60px;
+}
+.shadow{
+    box-shadow: 0px 2px 10px rgba(78, 78, 78, 0.418);
+}
+.logout{
+    border: none;
+    border: 1px solid white;
+}
+.logout:hover{
+    color: #8B5BBA;
+    background: white;
+    cursor: pointer;
+}

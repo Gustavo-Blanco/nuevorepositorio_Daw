@@ -1,0 +1,30 @@
+.articulos{
+    width: 70%;
+}
+.pago{
+    width: 27%;
+}
+
+.left{
+    width: 93%;
+    max-height: 200px;
+}
+.right{
+    width: 7%;
+    background: #387A8A;
+}
+.gray{
+    color: #6a6a6a;
+}
+
+.lista {
+    border: 1px solid #387A8A;
+    color: #387A8A;
+}
+.pagar{
+    border: none;
+    background: #387A8A;
+}
+.articulo{
+    box-shadow: 0px 2px 10px rgba(78, 78, 78, 0.418);
+}

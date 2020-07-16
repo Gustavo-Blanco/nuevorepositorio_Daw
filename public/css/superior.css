@@ -1,0 +1,38 @@
+main form {
+    width: 350px;
+}
+
+select {
+    border: 2px solid #387A8A;
+    color: #387A8A;
+}
+
+select option{
+    border: none;
+    outline: none;
+}
+.catalogo{
+    max-width: 338px;
+    min-width: 250px;
+    height: 550px;
+    border: 1px solid #8B5BBA;
+}
+.catalogo a{
+    height: 75%;
+    width: 100%;
+    border-bottom: 1px solid #8B5BBA;
+    overflow: hidden;
+}
+.catalogo a img{
+    display: block;
+    height:  100%;
+}
+.catalogo-inferior{
+    height: 15%;
+}
+.precio{
+    height: 10%;
+}
+.gray{
+    color: #6a6a6a;
+}

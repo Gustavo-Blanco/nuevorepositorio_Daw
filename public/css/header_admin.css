@@ -1,0 +1,31 @@
+.bg-fondo-header{
+    background: rgb(77, 95, 133);
+}
+header{
+    height: 60px;
+}
+.search{
+    border-radius: 0;
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+}
+header .salir{
+    background: rgb(29, 223, 196);
+    color: white;
+    text-decoration: none;
+    transition: .2s;
+}
+header .salir:hover{
+    background: white;
+    color: rgb(29, 223, 196);
+    transition: .2s;
+}
+nav{
+    height: 60px;
+}
+
+body{
+    background: rgb(245, 246, 251);
+}

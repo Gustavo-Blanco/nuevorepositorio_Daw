@@ -1,0 +1,51 @@
+main form{
+    width: 400px;
+    background: white;
+}
+form select{
+    border: 2px solid rgb(26, 177, 136);
+    color: rgb(26, 177, 136);
+}
+.input-background{
+    background: rgb(245, 246, 251);
+    border: none;
+    border-radius: 0;
+}
+.subir-imagen{
+    background: rgb(26, 177, 136);
+    border-radius: 20px;
+    width: 150px;
+}
+.subir-imagen input[type="file"]{
+    display: none;
+}
+.nueva-talla{
+    color: rgb(26, 177, 136);
+    border-bottom:1px solid rgb(26, 177, 136);
+    outline: none;
+}
+.titulo{
+    color: rgb(77, 95, 133)
+}
+.verde{
+    background: rgb(26, 177, 136);
+}
+.verde-color{
+    color: rgb(26, 177, 136);
+}
+.otro{
+    border: 1px solid rgb(26, 177, 136);
+}
+.otro:hover{
+    color: rgb(26, 177, 136);
+}
+.regresar{
+    top: 0;
+    left: 0;
+}
+.regresar:hover{
+    text-decoration: none;
+}
+.shadow{
+    box-shadow: 0px 2px 10px rgba(78, 78, 78, 0.418);
+}

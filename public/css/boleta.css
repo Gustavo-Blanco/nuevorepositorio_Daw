@@ -1,0 +1,20 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gray{
+    color: #6a6a6a;
+}
+.ok{
+    background: #8B5BBA;
+}
+.ok:hover{
+    text-decoration: none;
+}
+.subrayado{
+    border-bottom: 1px solid #8B5BBA;
+}
+.sombra{
+    box-shadow: 0px 2px 10px rgba(78, 78, 78, 0.418);
+}
